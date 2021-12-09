@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Divyam310303
-- 👀 I’m interested in Web Devlopement,Data Science and more
+- 👀 I’m interested in Web Devlopement,Gaming Technology and more
 - 🌱 I’m currently following CS50x To get a fell of some major domains in cse
-- 💞️ Would love to collaborate
+- 💞️ I'd be delighted to collaborate
 - 📫 Socials: Twitter: https://rb.gy/k4c2zs LinkedIn: https://rb.gy/6hqavc
 
 <!---
